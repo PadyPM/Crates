@@ -1,0 +1,11 @@
+name: KasaPM
+version: 1.0
+api: [3.0.0, 4.0.0+dev]
+main: Pady\Kasa
+author: PadyPM
+
+commands:
+  kasa:
+    description: §aKasa oluşturma komutu
+  anahtar:
+    description: §aKasa anahtar verme komutu
